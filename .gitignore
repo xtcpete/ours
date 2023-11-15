@@ -1,0 +1,11 @@
+*.jpg
+/colmap_results/
+*.png
+/test_new_all
+/test/
+/test_new/
+*.ckpt
+/matching1
+*.pyc
+*.npz
+```
